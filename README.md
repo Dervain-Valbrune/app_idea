@@ -8,6 +8,8 @@ Elle mettra à disposition des élèves l’ensemble des cours en format texte e
 
 - **Categorie**: Education
 
+- **Market** : N'importe quel etudiant peut s'inscrire sur l'app pour avoir acces au cours.
+
 - **Habitude** : Les enseignants l'utilisent constamment tout au long de la journée scolaire pour voir l'avancement des étudiants. Les étudiants utilisent l'application quotidiennement pour vérifier leurs performances et encaisser des récompenses.
 
 ## User stories
